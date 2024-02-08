@@ -1,4 +1,4 @@
-# polls
+# Polls
 Projeto desenvolvido na trilha de Nodejs na NLW Expert
 
 Schema da API desenvolvida
